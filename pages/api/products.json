@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "AI Art Pack #1",
+    "price": "10",
+    "description": "Get this AI generated art pack for only 10 USDC!",
+    "image_url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/325/framed-picture_1f5bc-fe0f.png",
+    "filename": "artpack1.zip",
+    "hash": "QmfYgNEHqrFpmvK67PdgLFrpRFXXSa4vEtnFKbDyjS3hMV"
+  },
+  {
+    "id": 2,
+    "name": "Art Pack #2",
+    "price": "10",
+    "image_url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/google/313/framed-picture_1f5bc-fe0f.png",
+    "description": "This is the second art pack in the Abstract Art Store!",
+    "filename": "artpack2.zip",
+    "hash": "QmRiwnLBAGevphpoSWaUDBfxUJQ3VPT8wgzSALqVr58G8x"
+  }
+]
